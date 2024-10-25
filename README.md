@@ -1,4 +1,4 @@
-##👋 Olá, meu nome é Aurélio!
+## 👋 Olá, meu nome é Aurélio!
 
 # 👀 Sobre mim 
   Sou Engenheiro de Produção, aficcionado pela área de tecnologia da informação! Estou sempre buscando adquirir conhecimentos na área.
