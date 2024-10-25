@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,py,postgres,docker,js,jest,javat)](https://skillicons.dev)
 
 # 📈 Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureliOFF&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
