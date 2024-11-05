@@ -1,7 +1,7 @@
 # 👋 Olá, meu nome é Aurélio!
 
 ## 👀 Sobre mim 
-  Sou Engenheiro de Produção, aficcionado pela área de tecnologia da informação! Estou sempre buscando adquirir conhecimentos na área.
+  Sou Engenheiro de Produção, aficcionado pela área de tecnologia da informação! Estou sempre buscando adquirir conhecimentos.
 
 ## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,py,postgres,docker,js,jest,javat)](https://skillicons.dev)
