@@ -2,6 +2,8 @@
 
 ## 👀 Sobre mim 
   Sou Engenheiro de Produção, aficcionado pela área de tecnologia da informação! Estou sempre buscando adquirir conhecimentos.
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Aurélio%20Lança-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelio-lanca)](https://www.linkedin.com/in/aurelio-lanca)
 
 ## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,py,postgres,docker,js,jest,javat)](https://skillicons.dev)
